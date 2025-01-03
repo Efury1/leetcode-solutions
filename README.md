@@ -15,8 +15,8 @@ I'm using the [@3ba2ii extension](https://github.com/3ba2ii/leetcode) in my brow
 ## Future Plans
 I'm excited to expand this project by creating **YouTube videos** on the following topics inspired by my LeetCode learning journey. Below is a to do list for me for topics I want to make vidoes on:
 
-- Function Composition adn reduce right
-- 
+- Function Composition and reduceRight
+  
 
 ## Contribution and Feedback
 This is a learning-focused repository, and I'm always looking for feedback to improve my solutions. If you spot an optimization or have suggestions, feel free to open an issue.

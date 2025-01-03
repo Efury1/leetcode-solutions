@@ -17,6 +17,7 @@ I'm excited to expand this project by creating **YouTube videos** on the followi
 
 - Function Composition and reduceRight
 - Reduce
+- Factorials in coding 
   
 
 ## Contribution and Feedback

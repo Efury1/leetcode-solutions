@@ -16,6 +16,7 @@ I'm using the [@3ba2ii extension](https://github.com/LeetSync/LeetSync) in my br
 I'm excited to expand this project by creating **YouTube videos** on the following topics inspired by my LeetCode learning journey. Below is a to do list for me for topics I want to make vidoes on:
 
 - Function Composition and reduceRight
+- Reduce
   
 
 ## Contribution and Feedback
